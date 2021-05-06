@@ -1,0 +1,224 @@
+  *{
+      margin: 0;
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      
+   }
+  p{
+    font-size: 20px;
+  }
+  .container{
+      background: rgb(29, 28, 28);
+      display: flex;
+     
+    }
+  
+   .container h1{
+      margin-top: 35px;
+      margin-left: 40px;
+      color: white;
+    }
+
+  .navnavbar{
+      display: flex;
+      justify-content: space-between;
+      padding: 20px;
+      margin-left: 35%;
+    }
+  
+  .navnavbar div a{
+      display: flex;
+      font-weight: 300;
+      padding:0 15px 0 0;
+      text-decoration: none;
+      font-size: 20px;
+      color: white;
+    }
+
+
+    .abaixonav a{
+      text-decoration: none;
+      color:black;
+      font-size: 20px;
+      padding: 40px;
+      
+    }
+
+    #selecte{
+      font-size: 20px;
+      background-color: rgb(83, 80, 80);
+      color: white;
+      border-radius: 5px;
+    }
+     .imgfundo{
+      text-align: center;
+      margin: auto;
+    } 
+
+    .imgfundo img{
+      width: 60%;
+    }
+
+
+    .imgfundo p{
+      text-align: center;
+      width: 50%;
+    
+    }
+
+    .section-principal{
+      text-align: center;
+      align-items: center;
+      width: 100%;
+      
+    }
+    
+    .section-principal p{
+      text-align: center;
+      width: 60%;
+    
+    }
+
+    .mainimg{
+      display: flex;
+      justify-content: center;
+      margin: auto;
+      width: 60%;
+     
+      
+    }
+    
+    .mainimg img{
+      display: flex;
+      padding: 30px;
+      
+    }
+
+
+    .mainimgContrate{
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    .mainimgContrate h4{
+      text-align: center;
+      font-size: 30px;
+      font-weight: 10px;
+
+    }
+
+    .mainimgContrate button{
+      text-align: center;
+      font-size: 20px;
+      margin: 10px;
+      padding: 10px;
+      border-radius: 5px;
+      background: rgb(29, 28, 28);
+      color:white ;
+    }
+
+     .section-02{
+      text-align: center;
+      margin: auto;
+    } 
+
+    .section-main1{
+      text-align: center;
+      width: 100%;
+     
+      
+    }
+
+    .section-main1 img{
+      text-align: center;
+      width: 60%;
+      margin-top: 30px;
+      margin-bottom: 30px;
+     
+    } 
+    .section-main1 p{
+      text-align: center;
+      width: 60%;
+      margin: auto;
+      
+    } 
+    
+    .h1profissional {
+      text-align: center;
+      color: black;
+      margin-top: 35px; 
+      margin-bottom: 15px;
+    }
+
+      .h1profissional h1{
+        text-align: center;
+        color: black;
+        margin-top: 35px; 
+        margin-bottom: 15px;
+      }
+
+      .h1profissional p{
+        text-align: center;
+        margin: auto;
+        margin-top: 35px;
+      
+        
+      }
+
+    .imagMercadiLimpeza img{
+      width: 60%;
+      margin-top: 30px;
+      margin-bottom: 30px;
+     
+    }
+
+    .section-button{
+      margin-top: 40px;
+      margin-bottom: 20px;
+      text-align: center;
+      font-size: 20px;
+      padding: 10px;
+      border-radius: 5px;
+      background: rgb(29, 28, 28);
+      color: white;
+    }
+
+    .section-03{
+      text-align: center;
+      
+    }
+
+    .section-final{
+      margin-top: 30px;
+    }
+
+    .selo-certificado{
+      text-align: center;
+      align-items: center;
+      margin-top: 30px;
+    }
+
+    .selo-certificado img{
+      text-align: center;
+      margin-top: 40px;
+      margin-bottom: 35px;
+    }
+
+    .rodape{
+      display: flex;
+      justify-content: center;
+      padding-top: 10px;
+      background: rgb(29, 28, 28);
+      text-align: center;
+      color: white;
+      padding: 10px;
+      text-decoration: none;
+    }
+    .rodape ul{
+      text-align: center;
+      padding: 50px;
+      text-justify: auto;
+      text-decoration: none;
+      
+      
+    }
